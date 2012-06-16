@@ -1,0 +1,25 @@
+# Requirements to manage the site locally and run the development enviroment
+
+Django==1.4
+
+django-debug-toolbar
+
+simplejson
+
+mock
+
+factory_boy
+
+pyyaml
+
+-e git+https://github.com/toastdriven/django-tastypie.git#egg=django_tastypie-0.9.11-py2.6-dev
+
+-e git+git://github.com/dcramer/django-devserver#egg=django-devserver
+
+gpolyencode
+
+lettuce
+
+pyflakes
+
+pep8

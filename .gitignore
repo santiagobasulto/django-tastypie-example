@@ -2,3 +2,6 @@
 *.pot
 *.pyc
 local_settings.py
+*~
+dev_database.sql3
+*.nja
