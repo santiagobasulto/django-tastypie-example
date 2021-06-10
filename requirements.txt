@@ -1,6 +1,6 @@
 # Requirements to manage the site locally and run the development enviroment
 
-Django==1.4
+Django==2.2.24
 
 django-debug-toolbar
 
